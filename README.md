@@ -1,2 +1,2 @@
 # FunInATL
-API interaction / json / html parser that tosses into Redis
+API / json / html molder that tosses into Redis
