@@ -1,7 +1,7 @@
 package com.webreadllc.FunInATL.main;
 
 import com.google.gson.Gson;
-import com.webreadllc.funinatl.event.Event;
+import com.webreadllc.FunInATL.event.Event;
 import com.webreadllc.FunInATL.httpscrape.DadsGarageScrape;
 import com.webreadllc.FunInATL.httpscrape.DragonConScrape;
 import com.webreadllc.FunInATL.httpscrape.PiedmontParkScrape;

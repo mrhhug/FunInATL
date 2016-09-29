@@ -1,6 +1,6 @@
 package com.webreadllc.FunInATL.httpscrape;
 
-import com.webreadllc.funinatl.event.Event;
+import com.webreadllc.FunInATL.event.Event;
 import java.io.IOException;
 import java.util.Set;
 

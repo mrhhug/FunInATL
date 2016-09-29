@@ -1,7 +1,7 @@
 package com.webreadllc.FunInATL.httpscrape;
 
-import com.webreadllc.funinatl.event.Event;
-import com.webreadllc.funinatl.event.Image;
+import com.webreadllc.FunInATL.event.Event;
+import com.webreadllc.FunInATL.event.Image;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;

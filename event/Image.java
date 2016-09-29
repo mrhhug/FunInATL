@@ -1,4 +1,4 @@
-package com.webreadllc.funinatl.event;
+package com.webreadllc.FunInATL.event;
 
 /**
  * @author michael

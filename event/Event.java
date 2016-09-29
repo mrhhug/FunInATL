@@ -1,4 +1,4 @@
-package com.webreadllc.funinatl.event;
+package com.webreadllc.FunInATL.event;
 
 import com.google.common.base.Objects;
 import java.time.LocalDate;
